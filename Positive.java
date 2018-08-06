@@ -1,5 +1,5 @@
 # positive-or-not
-import java.utill.*;
+import java.util.*;
 class Positive
 {
 public static void main(string args[])
@@ -12,4 +12,5 @@ else if(num<0)
 system.out.println("the number is negative");
 else
 system.out.println("the number is zero");
+}
 }
